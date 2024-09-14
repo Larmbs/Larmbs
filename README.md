@@ -12,7 +12,7 @@ while True:
 ## Projects
 - [Fluid Simulation](https://github.com/Larmbs/fluid-sim-rs):
    Implementation of an Eulerian Fluid Simulator in rust.
-- [Easy Sockets]():
+- [Easy Sockets](https://github.com/Larmbs/easy-sockets-rs):
    Eurgonomic wrapper over sockets allowing for easy protocol implementation.
 - [Iot Network](https://github.com/Larmbs/iot-net):
    Central configuration site for local Iot devices.
