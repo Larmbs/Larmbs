@@ -14,7 +14,7 @@ while True:
    Implementation of an Eulerian Fluid Simulator in rust.
 - [Easy Sockets]():
    Eurgonomic wrapper over sockets allowing for easy protocol implementation.
-- [Iot Network]():
+- [Iot Network](https://github.com/Larmbs/iot-net):
    Central configuration site for local Iot devices.
 - [Sand Engine]():
    Terraria like game with working physics and greedy meshing.
