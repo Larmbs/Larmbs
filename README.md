@@ -10,6 +10,6 @@ while True:
 ```
 
 ## Projects
-- 
+- [Fluid Simulation](https://github.com/Larmbs/fluid-sim-rs)
 - 
 ---
