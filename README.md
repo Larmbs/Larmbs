@@ -4,6 +4,12 @@ Hi I am Liam, a student majoring in Aerospace Engineering, and Computer Science.
 
 Check out my [site](https://larmbs.github.io/personal-site/), there I post about subjects that interest me.
 
-## Projects
+```Python
+while True:
+   code()
+```
 
+## Projects
+- 
+- 
 ---
