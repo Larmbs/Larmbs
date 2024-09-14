@@ -10,6 +10,8 @@ while True:
 ```
 
 ## Projects
-- [Fluid Simulation](https://github.com/Larmbs/fluid-sim-rs)
-- 
+- [Fluid Simulation](https://github.com/Larmbs/fluid-sim-rs):
+   Implementation of an Eulerian Fluid Simulator in rust.
+- [Easy Sockets]():
+   Eurgonomic wrapper over sockets allowing for easy TCP protocol implementation.
 ---
